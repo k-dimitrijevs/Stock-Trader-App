@@ -2,7 +2,7 @@
     <x-auth-card>
         <x-slot name="logo">
             <a href="/">
-                <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+                <img class="w-15 h-15" src="https://www.voicy.network/Content/Clips/Images/59eff8cd-f784-42e2-b040-76db5b41b104-small.jpg" alt="STONKS">
             </a>
         </x-slot>
 
